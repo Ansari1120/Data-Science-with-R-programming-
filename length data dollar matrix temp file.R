@@ -1,0 +1,11 @@
+data()
+women
+length(women)
+women$height
+women$weight
+women[1,1]
+women[1,2]
+women[2,]
+women[,2]
+women[1:4,1]
+w<-women
